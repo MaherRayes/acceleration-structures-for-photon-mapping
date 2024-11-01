@@ -1,0 +1,1 @@
+pbrt E:\University\BachelorThesis\Project\scenes\pbrt-v3-scenes-master\breakfast\f16-8b.pbrt --outfile x.png
